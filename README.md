@@ -4,9 +4,9 @@ Chapter 01 - Inception
 ------------------------------------------------
 Coding -
 Set up all the tools in your laptop
-.VS Code
-.Chrome
-.Extensions of Chrome
+--VS Code
+--Chrome
+--Extensions of Chrome
 Create a new Git repo
 Build your first Hello World program using,
 Using just HTML
